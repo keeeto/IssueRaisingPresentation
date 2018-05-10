@@ -18,3 +18,21 @@
 <img src="images/priorities_1.png" alt="Priorities" style="width: 150px;"/>
 
 ---
+### Priorities
+
+* Importance
+    * High - *must* be included, release could be postponed without
+    * None - desireable for relaese, address if at all possible
+    * Low - would be nice, but only if time allows
+* Urgency
+
+---
+### High priority
+
+* What is high priority?
+    * Issue is stopping instrument scientists from doing their work
+    * Delivery has been promised by the milestone
+* Who sets high priorty?
+    * Should not be an individual developer by her/his self
+    * Raise with technical steering committee, other senior developers
+---
