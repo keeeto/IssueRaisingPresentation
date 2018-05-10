@@ -14,6 +14,7 @@
 
 * Importance
 * Urgency
-<img src="images/priorities_1.png" alt="Priorities" style="width: 250px;"/>
+
+<img src="images/priorities_1.png" alt="Priorities" style="width: 150px;"/>
 
 ---
