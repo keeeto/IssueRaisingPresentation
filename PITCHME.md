@@ -45,3 +45,17 @@
 * We will not use High Priority as a proxy tag
 * A note should be included to explain priority
 * Priority should not change arbitrarily 
+---
+### New templates
+
+* We are proposing new templates for issues/PRs
+* Better feedback to original reporter
+
+---
+### New templates (issue)
+
+* Name/details of reporter to be included
+
+<img src="images/Issue_template.png" alt="Priorities" style="width: 450px;"/>
+---
+
