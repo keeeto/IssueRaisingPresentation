@@ -22,7 +22,7 @@
 
 * Importance
     * High - *must* be included, release could be postponed without
-    * None - desireable for relaese, address if at all possible
+    * None - desirable for release, address if at all possible
     * Low - would be nice, but only if time allows
 * Urgency
 
@@ -36,7 +36,7 @@
 ---
 ### High priority
 
-* Who sets high priorty?
+* Who sets high priority?
     * Should not be an individual developer by her/his self
     * Raise with technical steering committee, other senior developers
 
@@ -47,6 +47,14 @@
 * We will not use High Priority as a proxy tag
 * A note should be included to explain priority
 * Priority should not change arbitrarily 
+---
+### More on labels
+
+* Visit our useful guidelines
+
+<img src="images/labels_page.png" alt="Priorities" style="width: 450px;"/>
+
+[http://developer.mantidproject.org/IssueTracking.html#issuetrackinglabels](http://developer.mantidproject.org/IssueTracking.html#issuetrackinglabels)
 ---
 ### New templates
 
@@ -73,3 +81,23 @@
 * How to close this loop?
     * Gate keeper writes a comment to developer after closing
     * Gate keeper emails developer after closing
+---
+### Etiquette
+
+* Writing good issues/PRs
+
+<img src="images/table-etiquette.jpeg" alt="Priorities" style="width: 450px;"/>
+---
+### Issue etiquette
+
+* Our template is very good - try to follow it
+* Clearly state the problem
+* Clearly lay out how to reproduce any problems
+* Consider giving some background
+* Justify the priority it is given
+* Remember that anyone in the team could be reading this Issue, so the content and tone may inform people other than those taking part, now or later.
+
+[How to write the perfect Pull Request](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
+---
+### Try to be good :)
+<img src="images/gits_-commit.png" alt="Priorities" style="width: 450px;"/>
