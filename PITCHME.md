@@ -54,7 +54,7 @@
 
 <img src="images/labels-page.png" alt="Priorities" style="width: 450px;"/>
 
-[http://developer.mantidproject.org/IssueTracking.html#issuetrackinglabels](http://developer.mantidproject.org/IssueTracking.html#issuetrackinglabels)
+[Issue labels guide](http://developer.mantidproject.org/IssueTracking.html#issuetrackinglabels)
 ---
 ### New templates
 
