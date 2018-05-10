@@ -32,7 +32,16 @@
 * What is high priority?
     * Issue is stopping instrument scientists from doing their work
     * Delivery has been promised by the milestone
+
+---
+### High priority
+
 * Who sets high priorty?
     * Should not be an individual developer by her/his self
     * Raise with technical steering committee, other senior developers
 ---
+### High means high
+
+* We will not use High Priority as a proxy tag
+* A note should be included to explain priority
+* Priority should not change arbitrarily 
