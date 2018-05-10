@@ -100,4 +100,4 @@
 [How to write the perfect Pull Request](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
 ---
 ### Try to be good :)
-<img src="images/gits_-commit.png" alt="Priorities" style="width: 450px;"/>
+<img src="images/git_commit.png" alt="Priorities" style="width: 450px;"/>
