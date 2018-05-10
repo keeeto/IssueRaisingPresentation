@@ -52,7 +52,7 @@
 
 * Visit our useful guidelines
 
-<img src="images/labels_page.png" alt="Priorities" style="width: 450px;"/>
+<img src="images/labels-page.png" alt="Priorities" style="width: 450px;"/>
 
 [http://developer.mantidproject.org/IssueTracking.html#issuetrackinglabels](http://developer.mantidproject.org/IssueTracking.html#issuetrackinglabels)
 ---
