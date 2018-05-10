@@ -86,7 +86,7 @@
 
 * Writing good issues/PRs
 
-<img src="images/table-etiquette.jpeg" alt="Priorities" style="width: 450px;"/>
+<img src="images/table-etiquette.jpg" alt="Priorities" style="width: 450px;"/>
 ---
 ### Issue etiquette
 
