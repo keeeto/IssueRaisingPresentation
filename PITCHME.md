@@ -37,8 +37,8 @@
 ### High priority
 
 * Who sets high priority?
-    * Should not be an individual developer by her/his self
-    * Raise with technical steering committee, other senior developers
+    * Can be an individual developer by her/his self
+    * Discuss with senior developers if unsure
 
 <img src="images/gate_keeper.jpeg" alt="Priorities" style="width: 450px;"/>
 ---
@@ -80,7 +80,6 @@
 * Gate-keeper signs off on PR
 * How to close this loop?
     * Gate keeper writes a comment to developer after closing
-    * Gate keeper emails developer after closing
 ---
 ### Etiquette
 
